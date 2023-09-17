@@ -1,7 +1,7 @@
 
 # Project: Unified-Emulation
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Unified-Projects/Unified-Emulation/blob/main/LICENCE.md) ![GitHub release (with filter)](https://img.shields.io/github/v/release/Unified-Projects/Unified-Emulation)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Unified-Projects/Unified-Emulation/blob/main/LICENCE) ![GitHub release (with filter)](https://img.shields.io/github/v/release/Unified-Projects/Unified-Emulation)
 
 The aim of this projects is to build an understanding of how hardwares function and interact with each other. Meanwhile, being able to build a enjoyable applicatiom im the process.
 
